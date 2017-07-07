@@ -10,7 +10,17 @@
   #foo {
     background: yellow;
   }
-  </style>
+    
+  #foo1{
+    background: blue;
+  }
+  
+    #foo2{
+    background: red;
+  }
+     
+    </style>
+  
   <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 </head>
 <body>
@@ -34,7 +44,7 @@ $( "span" ).appendTo( "#foo" );
 
 
 <script>
-$( "foo1" ).prependTo( "#foo2" );
+$( "#foo1" ).prependTo( "#foo2" );
 </script>
  
 </body>
