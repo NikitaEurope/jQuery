@@ -1,6 +1,6 @@
 # jQuery :
 
-jQuery  Box
+# jQuery  Box :
 
 
 ## Category: DOM Insertion, Inside :
@@ -32,3 +32,6 @@ Get the combined text contents of each element in the set of matched elements, i
 
 
 + http://api.jquery.com/category/manipulation/dom-insertion-inside/
+
+
+Example1 : http://htmlpreview.github.io/?https://github.com/NikitaEurope/jQuery-/blob/master/example1.html
